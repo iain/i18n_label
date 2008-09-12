@@ -28,7 +28,7 @@ In your view:
 
 The result is:
 
-  <label for="topic_name"&gt;A nice name</label>
+  <<label for="topic_name">A nice name</label> (please ignore the minor problem with html in github)
 
 
 
