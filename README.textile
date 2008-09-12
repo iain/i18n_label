@@ -28,7 +28,7 @@ In your view:
 
 The result is:
 
-  <label for="topic_name">A nice name</label>
+  &lt;label for="topic_name">A nice name&lt;/label>
 
 
 
