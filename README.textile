@@ -7,7 +7,7 @@ Installation and configuration consists of 1 easy steps:
 
 # Run:
 
-  ./script/plugin install git://github.com/iain/i18n_label
+  ./script/plugin install git://github.com/iain/i18n_label.git
 
 
 h1. Example
@@ -28,7 +28,7 @@ In your view:
 
 The result is:
 
-  &lt;label for="topic_name">A nice name&lt;/label>
+  <label for="topic_name"&gt;A nice name</label>
 
 
 
