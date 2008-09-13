@@ -22,7 +22,7 @@ In your translation file:
 
 In your view:
 
-  <%= form_for @topic do |f| %>
+  <% form_for @topic do |f| %>
     <%= f.label :name %>
   <% end %>
 
